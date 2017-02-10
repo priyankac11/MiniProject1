@@ -1,0 +1,16 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\Student\Downloads\Compressed\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\Student\Downloads\Compressed\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\Student\Downloads\Compressed\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\Student\Downloads\Compressed\MiniProject\MiniProject\obj\Debug\MiniProject.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\Compressed\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\Student\Downloads\Compressed\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\TOSHIBA\Desktop\MiniProject\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\TOSHIBA\Desktop\MiniProject\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\TOSHIBA\Desktop\MiniProject\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\TOSHIBA\Desktop\MiniProject\MiniProject\MiniProject\obj\Debug\MiniProject.csprojResolveAssemblyReference.cache
